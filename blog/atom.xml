@@ -5,10 +5,10 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Project Castle blog</title>
-	<link href="https://www.projectcastle.net/blog/atom.xml" rel="self"/>
-	<link href="https://www.projectcastle.net/blog/"/>
+	<link href="http://www.projectcastle.net/blog/atom.xml" rel="self"/>
+	<link href="http://www.projectcastle.net/blog/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>https://www.projectcastle.net/blog/</id>
+	<id>http://www.projectcastle.net/blog/</id>
 	<author>
 		<name>Project Castle</name>
 		<email>inquiries@projectcastle.net</email>
@@ -17,9 +17,9 @@ layout: feed
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="https://www.projectcastle.net/{{ post.url }}"/>
+			<link href="http://www.projectcastle.net/{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>https://www.projectcastle.net/{{ post.id }}</id>
+			<id>http://www.projectcastle.net/{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
