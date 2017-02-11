@@ -6,12 +6,17 @@ title: Blog
 
 <head>
 	<title>Blog</title>
-	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Roboto:700">
+
 	<link rel="stylesheet" href="/assets/css/style.scss">
 </head>
 
 	<br>
 	<br>
+
+	<div style="Roboto:700: 'Font Name', serif;">
 	<h1>Project Castle Blog</h1>
 	<h1>{{ page.title }}</h1>
 
@@ -23,3 +28,4 @@ title: Blog
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+	</div>
