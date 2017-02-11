@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
+{@import "{{ site.theme }}";
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -13,12 +12,4 @@ h1 {
   background-color: black;
   border: 60px solid green;
     
-}
-
-p {
-
-}
-
-li {
-
-}
+}}
