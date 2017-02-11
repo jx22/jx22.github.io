@@ -1,9 +1,24 @@
 ---
 layout: default
 ---
+<head>
+
+<link rel="stylesheet" type="text/css"
+          href="https://fonts.googleapis.com/css?family=Lato:900">
+    <style>
+      body {
+        font-family: 'Lato', sans-serif;
+        font-size: 14px;
+      }
+    </style>
+
+</head>
+
+<body>
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
   {{ content }}
 </div>
+</body>
