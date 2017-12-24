@@ -32,7 +32,7 @@ Looking back at 2017, the company has continued to innovate and iterate on a num
 
 We're happy to see that the concept has been well received -- the usage of Post absolutely reflects that. And so the team has decided to make an extension to Post.
 
-What does this mean? A few things. First, this means that the service will remain available and will not be discontinued at the end of this year. There had been some discussion about sunsetting Post and putting more of our resources on other projects, but we've decided to stay the course. After all, as our first-ever project, Post has significance for us. And hey, we have more money now! We can do what we want!
+What does this mean? A few things. First, this means that the service will remain available and will not be discontinued at the end of this year. There had been some discussion about sunsetting Post and putting more of our resources on other projects, but we've decided to stay the course. After all, as our first-ever project, Post has significance for us. And hey, we have more money now! We can do what we want! We will continue to support Post at least through the end of 2018.
 
 The second thing we want to point out here is that certain people may have received messages or other information through Post and have then used Post to send information, and the extension of Post means that all previously relayed messages remain valid, unless otherwise noted. People will continue to be able to send messages through Post if and when they need to, at least for the time being. So if further messages need to be sent over a reliable system like Post, that can indeed be done. We thank our engineering team for their inspiring dedication to the project. 
 
