@@ -22,7 +22,7 @@ We want to give a big shout out to our new investor, but the firm has some promi
 
 Next up, we want to let everyone know something new that we're doing as a company. In the spirit of investing deeply in the research and development phase, and <a href="http://www.economist.com/node/8769863">specifically the "research" part of the term "research and development,"</a> we have recently gone ahead and formed a new wing. We call it the Project Castle Advanced Research Program, or PCARP. 
 
-<h2 style="font-size:10vw;">PCARP</h2>
+<h2>PCARP</h2>
 
 We are hopeful that this new unit will bring about truly inspiring technologies, processes, products and ideas, leaving the rest of the company to focus its energy on core project work. We have tasked one of our first team members, Jane de Luca, with leading PCARP. In discussions with our leadership team, Jane made it clear that it was important to expand the organization slowly and carefully, and so to ensure the success of the research group, we have decided to establish the PCARP School. We hope to publish more on the PCARP School in the future.
 
