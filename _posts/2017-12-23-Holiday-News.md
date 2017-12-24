@@ -10,7 +10,7 @@ It turns out that we've been busy. Big surprise, yeah, we know. But seriously! L
 
 But hey, we've got some things to cover today. So let's not bury the lead. 
 
-# Corporate news
+### Corporate announcement
 
 First, we want to let everyone know about a high-level development. Project Castle has recently (as in this quarter) taken on an initial funding round totaling $10 million. We'll be investing the lion's share of the money in the way that makes sense to us: R&D. We have no marketing function. We currently have no sales function. And no, we are not bringing in new leadership.
 
@@ -18,7 +18,7 @@ We believe in solidifying our foundation as a group that thinks up what's next, 
 
 We want to give a big shout out to our new investor, but the firm has some prominent backers and as such has asked us to keep its identity secret for now. But please know that as a going concern, Project Castle is here to stay, and now a representative from the firm has joined the board to help the company keep moving in the right direction. Woo! We're excited. There's so much to do. . . .
 
-# PCARP
+### New group
 
 Next up, we want to let everyone know something new that we're doing as a company. In the spirit of investing deeply in the research and development phase, and <a href="http://www.economist.com/node/8769863">specifically the "research" part of the term "research and development,"</a> we have recently gone ahead and formed a new wing. We call it the Project Castle Advanced Research Program, or PCARP. 
 
@@ -26,7 +26,7 @@ Next up, we want to let everyone know something new that we're doing as a compan
 
 We are hopeful that this new unit will bring about truly inspiring technologies, processes, products and ideas, leaving the rest of the company to focus its energy on core project work. We have tasked one of our first team members, Jane de Luca, with leading PCARP. In discussions with our leadership team, Jane made it clear that it was important to expand the organization slowly and carefully, and so to ensure the success of the research group, we have decided to establish the PCARP School. We hope to publish more on the PCARP School in the future.
 
-# Post update
+### Post update
 
 Looking back at 2017, the company has continued to innovate and iterate on a number of fronts. But the team agrees that if there's any achievement that's bigger than any other, it's got to be the introduction of our first project, that being of course <a href="http://www.projectcastle.net/blog/2017/04/26/Meet-Post">Post</a>. 
 
